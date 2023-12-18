@@ -1,3 +1,5 @@
+package Zoo;
+
 public class Doghw extends Animalhw{
 
     private String DogFood;

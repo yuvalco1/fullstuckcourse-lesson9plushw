@@ -1,3 +1,5 @@
+package Zoo;
+
 public class Horse extends Animalhw{
 
     private boolean racingHorse;
@@ -8,7 +10,7 @@ public class Horse extends Animalhw{
     }
 
     public void Neigh(){
-        System.out.println("Horse Neigh");
+        System.out.println("Zoo.Horse Neigh");
     }
 
     @Override

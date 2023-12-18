@@ -1,3 +1,5 @@
+package Zoo;
+
 public class Animalhw {
 
     private String name;

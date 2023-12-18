@@ -1,3 +1,5 @@
+package Zoo;
+
 public class Wolf extends Doghw{
 
     private String nameOfPack;

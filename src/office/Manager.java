@@ -1,3 +1,5 @@
+package office;
+
 public class Manager extends Employee{
     public double bonus;
 

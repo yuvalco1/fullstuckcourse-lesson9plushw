@@ -1,3 +1,5 @@
+package Zoo;
+
 public class Poodle extends Doghw{
 
     private String numberOfPonyTails;
